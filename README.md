@@ -40,4 +40,5 @@ The current version uses 12 sample locations and illustrative road distances. Ac
 Rathesh V and Kadar 
 
 ## Team Members
-Add your teammates' names and register numbers.
+Rathesh V 
+Kadar Haneef
