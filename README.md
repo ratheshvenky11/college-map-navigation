@@ -37,7 +37,7 @@ The current version uses 12 sample locations and illustrative road distances. Ac
 - Develop a graphical map interface
 
 ## Author
-Add your name and register number.
+Rathesh V and Kadar 
 
 ## Team Members
 Add your teammates' names and register numbers.
